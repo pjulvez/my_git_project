@@ -6,3 +6,5 @@
 -   Cloning a repo:
     
         git clone repo_url
+Modifiquem el fitxer
+Modifiquem el fitxer un altre cop
